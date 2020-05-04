@@ -1,0 +1,5 @@
+C:\Users\German\Desktop\TRABAJO DE CAMPO\TP Arquitectura\ArquitecturaCapasV2\TCTD2020.ArquitecturaCapasV2\TCTD2020.ArquitecturaCapasV2.Interfaceas\bin\Debug\TCTD2020.ArquitecturaCapasV2.Interfaces.dll
+C:\Users\German\Desktop\TRABAJO DE CAMPO\TP Arquitectura\ArquitecturaCapasV2\TCTD2020.ArquitecturaCapasV2\TCTD2020.ArquitecturaCapasV2.Interfaceas\bin\Debug\TCTD2020.ArquitecturaCapasV2.Interfaces.pdb
+C:\Users\German\Desktop\TRABAJO DE CAMPO\TP Arquitectura\ArquitecturaCapasV2\TCTD2020.ArquitecturaCapasV2\TCTD2020.ArquitecturaCapasV2.Interfaceas\obj\Debug\TCTD2020.ArquitecturaCapasV2.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\TRABAJO DE CAMPO\TP Arquitectura\ArquitecturaCapasV2\TCTD2020.ArquitecturaCapasV2\TCTD2020.ArquitecturaCapasV2.Interfaceas\obj\Debug\TCTD2020.ArquitecturaCapasV2.Interfaces.dll
+C:\Users\German\Desktop\TRABAJO DE CAMPO\TP Arquitectura\ArquitecturaCapasV2\TCTD2020.ArquitecturaCapasV2\TCTD2020.ArquitecturaCapasV2.Interfaceas\obj\Debug\TCTD2020.ArquitecturaCapasV2.Interfaces.pdb
